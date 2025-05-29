@@ -19,7 +19,7 @@ int main() {
     float pib2;
     int pontosTuristicos2;
 
-        // Leitura primeira carta
+        //primeira carta
     printf("Cadastro da Carta 1:\n");
 
     printf("Digite o Estado: ");
